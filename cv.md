@@ -36,3 +36,7 @@
 * Courses:
   - ITEC IT Education Complex - FRONT-END developing
   - RS School - JS / FRONT-END. STAGE 0
+
+## Languages:
+* Russian - Native
+* English - Intermediate/Upper-intermediate (according to the online test at EFset www.efset.org)
