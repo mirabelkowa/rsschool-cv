@@ -31,3 +31,8 @@
         }
     }
 
+## Education:
+* Belarusian National Technical University, HVAC engineer
+* Courses:
+  - ITEC IT Education Complex - FRONT-END developing
+  - RS School - JS / FRONT-END. STAGE 0
