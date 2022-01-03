@@ -9,7 +9,7 @@
 * __Telegram:__ @mirabelkowa
 
 ## About me:
-    I’ve been working as an HVAC designer for 8 years and feel now that I’m not interested in this job anymore. My goal is to be a frontend developer because it’s interesting and gives many possibilities for self-realization.
+    I’ve been working as an HVAC designer for 8 years and I feel now that I’m not interested in this job anymore. My goal is to be a frontend developer because it’s interesting and gives many possibilities for self-realization.
 
 ## Skills and Proficiency:
 * HTML5, CSS, SCSS
